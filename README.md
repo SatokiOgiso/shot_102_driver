@@ -2,8 +2,8 @@
 シグマ光機製 SHOT-102のpython向けライブラリ
 
 ## 依存関係
-python 3.7
-pyserial
+* python 3.7
+* pyserial
 
 ## 使用方法
 examples.pyを参照してください．
